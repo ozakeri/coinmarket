@@ -46,7 +46,7 @@ high quality and accurate information for drawing their own informed conclusions
 
 
 ## Usage
-Easily install and use this application
+CoinMarketCap is the world's most-referenced price-tracking website for cryptoassets in the rapidly growing cryptocurrency space. 
 
 
 ## Project Status
@@ -55,10 +55,9 @@ This application is complete
 
 ## Acknowledgements
 You can use the following resources to access the APIs
-- Get coins route:
-https://api.coinpaprika.com/v1/coins
-- Get a coin by ID route:
-https://api.coinpaprika.com/v1/coins/...
+- https://coinmarketcap.com/
+- CoinMarketCap API:
+https://coinmarketcap.com/api/documentation/v1/
 
 
 ## Contact
